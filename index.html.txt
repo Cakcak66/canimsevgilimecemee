@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Affet Beni Ecem 🥺</title>
+  <style>
+    body {
+      background-color: #fff0f5;
+      font-family: 'Comic Sans MS', cursive;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 3em;
+      color: #ff69b4;
+    }
+    p {
+      font-size: 1.5em;
+      color: #555;
+    }
+    button {
+      font-size: 1.2em;
+      padding: 15px 30px;
+      background-color: #ffb6c1;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      margin-top: 30px;
+    }
+    button:hover {
+      background-color: #ff69b4;
+      color: white;
+    }
+    img {
+      max-width: 150px;
+      margin: 20px auto;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" alt="Üzgün Kalp" />
+  <h1>Affet beni Ecem! 🥹</h1>
+  <p>Biliyorum moralini bozdum... Ama bak böyle bir şey yaptım. 🙈</p>
+  <p>Sadece bir gülümsemen için! 😘</p>
+  <p>Çünkü sen gülmeyince ben bir hiçim... 😔</p>
+  <button onclick="alert('Sarılıyorum! 🤗')">Sarılmak İçin Tıkla</button>
+</body>
+</html>
